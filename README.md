@@ -25,7 +25,7 @@
 
 - 👋 Bonjour, je suis @QuentinDAMMAN
 - 👀 je suis intéressé dans le dev , devOps et l'informatique
-- 🌱 j'apprendre actuelment python avec ma formation devOps
+- 🌱 j'apprendre actuellement python avec ma formation devOps
 - 💞️ Je cherche à monter en compétence et collaboré sur : docker, kubernates , vagrant , Ansible et les outils de monitoring
 - 📫 Je recherche également un travail de dev/ devOps junior
 
