@@ -2,7 +2,7 @@
 - 👀 I’m interested in dev , devOps and it technologies
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on docker, kubunertes , vagrant , Ansible 
-- 📫 I'm looking for a junior dev/  devOps job 
+- 📫 I'm seeking for a junior it job, dev/  devOps 
 
 <!---
 QuentinDAMMAN/QuentinDAMMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
