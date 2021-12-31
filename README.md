@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @QuentinDAMMAN
 - 👀 I’m interested in dev , devOps and it technologies
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on docker, kubunertes , vagrant , Ansible 
+- 💞️ I’m looking to collaborate on docker, kubunertes , vagrant , Ansible and monitoring tools
 - 📫 I'm seeking for a junior it job, dev/  devOps 
 
 <!---
