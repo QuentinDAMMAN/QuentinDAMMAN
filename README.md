@@ -8,10 +8,10 @@
 
 ## folowing this you can see 6 pined project :
 - [ChickenRun](https://github.com/QuentinDAMMAN/ChickenRun)
+- [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
 - [JeuxDrapeauQuentin](https://github.com/QuentinDAMMAN/JeuxDrapeauQuentin)
 - [presentationJFX](https://github.com/QuentinDAMMAN/presentationJFX)
 - [cryptoweb](https://github.com/QuentinDAMMAN/cryptoweb)
-- [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
 - [CDA-HB-PS-MS-QD-ToDoLIfe](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
 <br/>
 <br/>
@@ -31,10 +31,10 @@
 
 ## Voici 6 projet épinglé ci dessous :
 - [ChickenRun](https://github.com/QuentinDAMMAN/ChickenRun)
+- [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
 - [JeuxDrapeauQuentin](https://github.com/QuentinDAMMAN/JeuxDrapeauQuentin)
 - [presentationJFX](https://github.com/QuentinDAMMAN/presentationJFX)
 - [cryptoweb](https://github.com/QuentinDAMMAN/cryptoweb)
-- [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
 - [CDA-HB-PS-MS-QD-ToDoLIfe](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
 
 <!---
