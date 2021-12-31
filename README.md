@@ -12,7 +12,7 @@
 - [presentationJFX](https://github.com/QuentinDAMMAN/presentationJFX)
 - [cryptoweb](https://github.com/QuentinDAMMAN/cryptoweb)
 - [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
-- [ cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
+- [CDA-HB-PS-MS-QD-ToDoLIfe](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
 <br/>
 <br/>
 <br/>
@@ -35,7 +35,7 @@
 - [presentationJFX](https://github.com/QuentinDAMMAN/presentationJFX)
 - [cryptoweb](https://github.com/QuentinDAMMAN/cryptoweb)
 - [cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/cda-20285-avion-allinpoker)
-- [ cda-20285-avion-allinpoker](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
+- [CDA-HB-PS-MS-QD-ToDoLIfe](https://github.com/QuentinDAMMAN/CDA-HB-PS-MS-QD-ToDoLIfe)
 
 <!---
 QuentinDAMMAN/QuentinDAMMAN is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
